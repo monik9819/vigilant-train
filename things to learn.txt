@@ -1,0 +1,33 @@
+1.designing software
+autocad
+catia
+creo parametric
+inventor(g)
+nx
+solid edge(g)
+soildworks
+2.analysis software
+ansys
+3.apart from these
+cnc (g-code)
+practical applications of machine lathe,milling,cnc,vmc,etc
+proper welding
+4.apart from mech
+iot
+arduino
+raspberry pi
+plc
+5.for ms
+B2 level german
+maintain gpa 8
+gre
+english improvement
+write more papers and participate
+make resume better in any way possible
+
+machine learning(g)
+embedded-c(g)
+image processing(g)
+open cv(g)
+python
+c
